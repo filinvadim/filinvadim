@@ -7,5 +7,5 @@ and have leadership experience and skills.
 - 🌐 Based in Tbilisi, Georgia Republic 🇬🇪
 - 💡 Passionate about building decentralized systems, security-focused backend development, and Go programming
 - 🎓 Have a law degree
-- 🏠 Looking for home (open to relocation opportunities)
+- 🏠 Looking for job! (open to relocation opportunities)
 - 👋 Reach me on [LinkedIn](https://www.linkedin.com/in/vadim-f-35b815164/), or write me an email to `github.com.mecdy@passmail.net`
