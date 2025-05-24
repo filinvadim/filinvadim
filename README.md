@@ -4,7 +4,7 @@ I'm software engineer with 8 years of experience in backend software development
 language is Golang. Highly professional, focused on delivering product in short time without any supervision. I was a technical leader
 and have leadership experience and skills. 
 
-- 🌐 Based in Tbilisi, Georgia Republic 🇬🇪
+- 🌐 Based in Belgrade, Serbia
 - 💡 Passionate about building decentralized systems, security-focused backend development, and Go programming
 - 🎓 Have a law degree
 - 🏠 Looking for job! (open to relocation opportunities)
