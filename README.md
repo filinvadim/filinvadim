@@ -1,6 +1,6 @@
 ### 𖤐 Hi, I am Vadim 𖤐
 
-I'm software engineer with 8 years of experience in backend software development mainly for FinTech startups. Preferred programming
+I'm software engineer with 8 years of experience in backend software development. Preferred programming
 language is Golang. Highly professional, focused on delivering product in short time without any supervision. I was a technical leader
 and have leadership experience and skills. 
 
